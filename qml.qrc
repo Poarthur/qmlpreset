@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Cube.qml</file>
+        <file>HeaderMenu.qml</file>
+        <file>OpenDialog.qml</file>
+        <file>openFile.js</file>
+    </qresource>
+</RCC>
